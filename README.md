@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Spotify Dashboard](SpotifyInfo.png)
+
 # Spotify Tableau Dashboard
 
 This project analyzes Spotify track characteristics using Tableau Desktop.
